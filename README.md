@@ -12,7 +12,7 @@ This repo provides a template Vagrantfile to create a CoreOS virtual machine usi
 2) Clone this project and get it running!
 
 ```
-git clone https://github.com/coreos/coreos-vagrant/
+git clone https://github.com/Sadathossain/coreos-vagrant/
 cd coreos-vagrant
 ```
 
