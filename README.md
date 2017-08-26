@@ -1,6 +1,7 @@
 # CoreOS Vagrant
 
-This repo provides a template Vagrantfile to create a CoreOS virtual machine using the VirtualBox software hypervisor.
+This repo provides a template Vagrantfile to create a CoreOS virtual machine cluster with three nodes
+(hostname prefix 'core') using the VirtualBox software hypervisor.
 
 ## Streamlined setup
 
