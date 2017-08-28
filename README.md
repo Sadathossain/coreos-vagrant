@@ -21,7 +21,7 @@ cd coreos-vagrant
 
 ```
 wget -O config.rb --no-check-certificate "https://onedrive.live.com/download?cid=250471D9C3703BE3&resid=250471D9C3703BE3%2130390&authkey=AAEWRm-mnCLgk6U"
-wget -O user-data --no-check-certificate "https://onedrive.live.com/download?cid=250471D9C3703BE3&resid=250471D9C3703BE3%2130391&authkey=AF84ZPtSK-F16LM"
+wget -O user-data --no-check-certificate "https://onedrive.live.com/download?cid=250471D9C3703BE3&resid=250471D9C3703BE3%2130393&authkey=ALmTQ-fS5sZotUU"
 ```
 
 Generate a new token for each unique cluster from https://discovery.etcd.io/new?size=3
@@ -30,7 +30,7 @@ Specify the initial size of your cluster with ?size=X
 
 Replace each time 'vagrant destroy'
 
-Edit cl.conf and user-data with generated <token> 
+Edit cl.conf and user-data with generated <token>
 
 3) Startup and SSH
 
